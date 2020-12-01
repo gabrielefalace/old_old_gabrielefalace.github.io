@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fal&#39;s blog</title>
+    <title>Fal&#39;s space</title>
     <link>https://gabrielefalace.github.io/</link>
-    <description>Recent content on Fal&#39;s blog</description>
+    <description>Recent content on Fal&#39;s space</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 17 Sep 2020 11:30:03 +0530</lastBuildDate><atom:link href="https://gabrielefalace.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielefalace.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Papermod - Installation</title>
-      <link>https://gabrielefalace.github.io/posts/papermod/papermod-installation/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0530</pubDate>
-      
-      <guid>https://gabrielefalace.github.io/posts/papermod/papermod-installation/</guid>
-      <description>Read Install and Update instructions here</description>
-    </item>
-    
-    <item>
-      <title>Papermod - Features</title>
-      <link>https://gabrielefalace.github.io/posts/papermod/papermod-features/</link>
-      <pubDate>Wed, 16 Sep 2020 11:30:03 +0530</pubDate>
-      
-      <guid>https://gabrielefalace.github.io/posts/papermod/papermod-features/</guid>
-      <description>Get known about All Features in PaperMod</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://gabrielefalace.github.io/posts/markdown-syntax/</link>
+      <title>CORS: what and why</title>
+      <link>https://gabrielefalace.github.io/posts/cors/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gabrielefalace.github.io/posts/markdown-syntax/</guid>
+      <guid>https://gabrielefalace.github.io/posts/cors/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Papermod - Icons</title>
-      <link>https://gabrielefalace.github.io/posts/papermod/papermod-icons/</link>
-      <pubDate>Thu, 17 Sep 2020 11:30:03 +0530</pubDate>
-      
-      <guid>https://gabrielefalace.github.io/posts/papermod/papermod-icons/</guid>
-      <description>List of all Icons supported by PaperMod</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://gabrielefalace.github.io/posts/rich-content/</link>
+      <title>Nesty Loops</title>
+      <link>https://gabrielefalace.github.io/posts/nesty-loops/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gabrielefalace.github.io/posts/rich-content/</guid>
+      <guid>https://gabrielefalace.github.io/posts/nesty-loops/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
     </item>
     
     <item>
-      <title>Placeholder Text</title>
-      <link>https://gabrielefalace.github.io/posts/placeholder-text/</link>
+      <title>Recursion easily explained</title>
+      <link>https://gabrielefalace.github.io/posts/recursion/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gabrielefalace.github.io/posts/placeholder-text/</guid>
+      <guid>https://gabrielefalace.github.io/posts/recursion/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Math Typesetting</title>
-      <link>https://gabrielefalace.github.io/posts/math-typesetting/</link>
+      <title>Threat Modeling for Microservices</title>
+      <link>https://gabrielefalace.github.io/posts/threat-modeling/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielefalace.github.io/posts/threat-modeling/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data and AI in 2020</title>
+      <link>https://gabrielefalace.github.io/posts/data-and-ai/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gabrielefalace.github.io/posts/math-typesetting/</guid>
+      <guid>https://gabrielefalace.github.io/posts/data-and-ai/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Emoji Support</title>
-      <link>https://gabrielefalace.github.io/posts/emoji-support/</link>
+      <title>Null safety</title>
+      <link>https://gabrielefalace.github.io/posts/null-safety/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielefalace.github.io/posts/null-safety/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Inheritance</title>
+      <link>https://gabrielefalace.github.io/posts/inheritance/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gabrielefalace.github.io/posts/emoji-support/</guid>
+      <guid>https://gabrielefalace.github.io/posts/inheritance/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://gabrielefalace.github.io/l2/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielefalace.github.io/l2/archives/</guid>
+      <description>archives</description>
     </item>
     
     <item>
