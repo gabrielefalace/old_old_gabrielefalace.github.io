@@ -44,7 +44,7 @@
   "keywords": [
     "shortcodes", "privacy"
   ],
-  "articleBody": "In this example we will be using KaTeX\n Create a partial under /layouts/partials/math.html Within this partial reference the Auto-render Extension or host these scripts locally. Include the partial in your templates like so:  {{ if or .Params.math .Site.Params.math }} {{ partial \"math.html\" . }} {{ end }}  To enable KaTex globally set the parameter math to true in a project’s configuration To enable KaTex on a per page basis include the parameter math: true in content files  Note: Use the online reference of Supported TeX Functions\n  Examples  The Theta notation is not an exact notation, it's still asymptotic \\(T(n) = \\Theta(n)\\) means that it's both \\(T(n) = \\Omicron(n)\\) and \\(T(n) = \\Omega(n)\\). So for instance if we have a \\(\\Omicron(n)\\) lowebound and a \\(\\Omega(n)\\) uppebond, than we can state it's \\(\\Omega(n)\\) Here’s an example of exact complexity functione:\n$$ T(n) = 3n + 2 $$\n",
+  "articleBody": "In this example we will be using KaTeX\n Create a partial under /layouts/partials/math.html Within this partial reference the Auto-render Extension or host these scripts locally. Include the partial in your templates like so:  {{ if or .Params.math .Site.Params.math }} {{ partial \"math.html\" . }} {{ end }}  To enable KaTex globally set the parameter math to true in a project’s configuration To enable KaTex on a per page basis include the parameter math: true in content files  Note: Use the online reference of Supported TeX Functions\n  Examples  The Theta notation is not an exact notation, it's still asymptotic \\(T(n) = \\Theta(n)\\) means that it's both \\(T(n) = \\Omicron(n)\\) and \\(T(n) = \\Omega(n)\\). So for instance if we have a \\(\\Omicron(n)\\) lowebound and a \\(\\Omega(n)\\) uppebond, than we can state it's \\(\\Omega(n)\\) Here’s an example of exact complexity function:\n$$ T(n) = 3n + 2 $$\n",
   "wordCount" : "145",
   "inLanguage": "en",
   "datePublished": "2019-03-10T00:00:00Z",
@@ -197,7 +197,7 @@ The Theta notation is not an exact notation, it's still asymptotic \(T(n) = \The
 So for instance if we have a \(\Omicron(n)\) lowebound and a \(\Omega(n)\) uppebond, than we can state it's \(\Omega(n)\)
 </p>
 
-<p>Here&rsquo;s an example of exact complexity functione:</p>
+<p>Here&rsquo;s an example of exact complexity function:</p>
 <p>$$
 T(n) = 3n + 2
 $$</p>
