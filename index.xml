@@ -58,7 +58,8 @@
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://gabrielefalace.github.io/posts/null-safety/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Null safety is an emerging feature of modern programming languages, which is taking much tracton lately. Notable examples include
+Kotlin, Swift and Dart 2.0.&lt;/p&gt;</description>
     </item>
     
     <item>
