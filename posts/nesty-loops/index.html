@@ -40,12 +40,12 @@
   "@type": "BlogPosting",
   "headline": "Nesty Loops",
   "name": "Nesty Loops",
-  "description": "Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social …",
+  "description": "In this example we will be using KaTeX\n Create a partial under /layouts/partials/math.html Within this partial reference the Auto-render Extension or host these scripts locally. …",
   "keywords": [
     "shortcodes", "privacy"
   ],
-  "articleBody": "Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.\n Instagram Simple Shortcode  YouTube Privacy Enhanced Shortcode    Twitter Simple Shortcode “In addition to being more logical, asymmetry has the advantage that its complete appearance is far more optically effective than symmetry.”\n— Jan Tschichold pic.twitter.com/gcv7SrhvJb\n— Graphic Design History (@DesignReviewed) January 17, 2019  Vimeo Simple Shortcode  .__h_video { position: relative; padding-bottom: 56.23%; height: 0; overflow: hidden; width: 100%; background: #000; } .__h_video img { width: 100%; height: auto; color: #000; } .__h_video .play { height: 72px; width: 72px; left: 50%; top: 50%; margin-left: -36px; margin-top: -36px; position: absolute; cursor: pointer; }   In this example we will be using KaTeX\n Create a partial under /layouts/partials/math.html Within this partial reference the Auto-render Extension or host these scripts locally. Include the partial in your templates like so:  {{ if or .Params.math .Site.Params.math }} {{ partial \"math.html\" . }} {{ end }}  To enable KaTex globally set the parameter math to true in a project’s configuration To enable KaTex on a per page basis include the parameter math: true in content files  Note: Use the online reference of Supported TeX Functions\n  Examples  Inline math: \\(T(n) is \\vartheta(n) = \\dfrac{1+\\sqrt5}{2}= 1.6180339887…\\) Block math:\n$$ \\varphi = 1+\\frac{1} {1+\\frac{1} {1+\\frac{1} {1+\\cdots} } } $$\n",
-  "wordCount" : "229",
+  "articleBody": "In this example we will be using KaTeX\n Create a partial under /layouts/partials/math.html Within this partial reference the Auto-render Extension or host these scripts locally. Include the partial in your templates like so:  {{ if or .Params.math .Site.Params.math }} {{ partial \"math.html\" . }} {{ end }}  To enable KaTex globally set the parameter math to true in a project’s configuration To enable KaTex on a per page basis include the parameter math: true in content files  Note: Use the online reference of Supported TeX Functions\n  Examples  The Theta notation is not an exact notation, it's still asymptotic \\(T(n) = \\Theta(n)\\) means that it's both \\(T(n) = \\Omicron(n)\\) and \\(T(n) = \\Omega(n)\\). So for instance if you have a \\(\\Omicron(n)\\) lowebound and a \\Omega(n)\\ come uppebond, than we can state it's \\Omega(n)\\ Here’s an example of exact complexity functione:\n$$ T(n) = 3n + 2 $$\n",
+  "wordCount" : "146",
   "inLanguage": "en",
   "datePublished": "2019-03-10T00:00:00Z",
   "dateModified": "2019-03-10T00:00:00Z",
@@ -149,7 +149,7 @@
     </h1>
     <div class="post-meta">
 
-March 10, 2019&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Gabriele Falace
+March 10, 2019&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Gabriele Falace
 
     </div>
   </header> 
@@ -160,75 +160,11 @@ March 10, 2019&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Gabriele Falace
         <div class="details" accesskey="c">Table of Contents</div>
       </summary>
       <blockquote><ul><li>
-        <a href="#instagram-simple-shortcode" aria-label="Instagram Simple Shortcode">Instagram Simple Shortcode</a></li><li>
-        <a href="#youtube-privacy-enhanced-shortcode" aria-label="YouTube Privacy Enhanced Shortcode">YouTube Privacy Enhanced Shortcode</a></li><li>
-        <a href="#twitter-simple-shortcode" aria-label="Twitter Simple Shortcode">Twitter Simple Shortcode</a></li><li>
-        <a href="#vimeo-simple-shortcode" aria-label="Vimeo Simple Shortcode">Vimeo Simple Shortcode</a><ul>
-            <li>
         <a href="#examples" aria-label="Examples">Examples</a></li></ul>
-</li></ul>
       </blockquote>
     </details>
   </div>
   <div class="post-content">
-<p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
-<h2 id="heading"><a hidden class="anchor" aria-hidden="true" href="#heading">#</a></h2>
-<h2 id="instagram-simple-shortcode">Instagram Simple Shortcode<a hidden class="anchor" aria-hidden="true" href="#instagram-simple-shortcode">#</a></h2>
-<!-- raw HTML omitted -->
-<hr>
-<h2 id="youtube-privacy-enhanced-shortcode">YouTube Privacy Enhanced Shortcode<a hidden class="anchor" aria-hidden="true" href="#youtube-privacy-enhanced-shortcode">#</a></h2>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube-nocookie.com/embed/ZJthWmvUzzc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<!-- raw HTML omitted -->
-<hr>
-<h2 id="twitter-simple-shortcode">Twitter Simple Shortcode<a hidden class="anchor" aria-hidden="true" href="#twitter-simple-shortcode">#</a></h2>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“In addition to being more logical, asymmetry has the advantage that its complete appearance is far more optically effective than symmetry.”<br>— Jan Tschichold <a href="https://t.co/gcv7SrhvJb">pic.twitter.com/gcv7SrhvJb</a></p>&mdash; Graphic Design History (@DesignReviewed) <a href="https://twitter.com/DesignReviewed/status/1085870671291310081?ref_src=twsrc%5Etfw">January 17, 2019</a></blockquote>
-
-<!-- raw HTML omitted -->
-<hr>
-<h2 id="vimeo-simple-shortcode">Vimeo Simple Shortcode<a hidden class="anchor" aria-hidden="true" href="#vimeo-simple-shortcode">#</a></h2>
-
-
-
-
-
-
-<style>
-.__h_video {
-   position: relative;
-   padding-bottom: 56.23%;
-   height: 0;
-   overflow: hidden;
-   width: 100%;
-   background: #000;
-}
-.__h_video img {
-   width: 100%;
-   height: auto;
-   color: #000;
-}
-.__h_video .play {
-   height: 72px;
-   width: 72px;
-   left: 50%;
-   top: 50%;
-   margin-left: -36px;
-   margin-top: -36px;
-   position: absolute;
-   cursor: pointer;
-}
-</style>
-
-
-<div class="s_video_simple __h_video">
-<a href="https://vimeo.com/4.8912912e&#43;07" rel="noopener" target="_blank">
-
-
-<img src="https://i.vimeocdn.com/video/337401969_640.jpg" srcset="https://i.vimeocdn.com/video/337401969_640.jpg 1x, https://i.vimeocdn.com/video/337401969.jpg 2x" alt="Sing Jan Swing - Kinetic Type">
-<div class="play"><svg version="1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 61"><circle cx="30.5" cy="30.5" r="30.5" opacity=".8" fill="#000"></circle><path d="M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z" fill="#fff"></path></svg></div></a></div>
 <p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
 <ul>
 <li>Create a partial under <code>/layouts/partials/math.html</code></li>
@@ -256,13 +192,16 @@ March 10, 2019&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Gabriele Falace
 
 
 <p>
-Inline math: \(T(n) is \vartheta(n) = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
+The Theta notation is not an exact notation, it's still asymptotic \(T(n) = \Theta(n)\) means that it's both \(T(n) = \Omicron(n)\) and \(T(n) = \Omega(n)\). 
+
+So for instance if you have a \(\Omicron(n)\) lowebound and a \Omega(n)\ come uppebond, than we can state it's \Omega(n)\
 </p>
 
-<p>Block math:</p>
+<p>Here&rsquo;s an example of exact complexity functione:</p>
 <p>$$
-\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+T(n) = 3n + 2
 $$</p>
+
 </div>
   <footer class="post-footer">
     <ul class="post-tags">
