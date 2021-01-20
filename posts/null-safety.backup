@@ -1,0 +1,40 @@
+---
+author: Gabriele Falace
+title: Null safety 
+date: 2019-03-08
+description: A brief guide to setup KaTeX
+math: true
+---
+
+TODO
+Additional article on modern programming lang features in general??
+
+Null safety is an emerging feature of modern programming languages, which is taking much tracton lately. Notable examples include
+Kotlin, Swift and Dart 2.0.
+<!--more-->
+
+# How does it work
+What's this all about? Typically it's just denoting the type of a variable with a `?` to indicate that that variable's value can be `null`. So if we assign a potentially nullable value to a non-nullable variable, the compiler will force us to handle it.
+In traditional programming languages, every variable can be `null`, except primitives which will default to some value. This leaves developers with two quite poor choices: if they spread null checks literally everywhere in the code, they're safe but have a ton of boilerplaite around. If they don't they might have exceptions anywhere.
+
+//TODO add snippets of code
+
+# Advantages 
+
+Having worked a couple years with Kotlin I can say this feature has a great impact on code quality and development productivity, although at first I didn't think it would be so substantial.
+Can be used consistently everywhere in the code (fields and both input and output parameters of functions/method). This is actually a big thing: contrast with a thing like Java's `Optional<T>`: it can't be used for properties because — being itself nullable —  would be even initialized to `null`. It's not usable for function arguments either, pretty much for the same reason of being itself inherently nullable.
+Isolate null management at the edge of the system.
+Makes it nearly impossible to have things like the dreaded `NullPointerException`.
+
+# Criticism
+
+Some people argue that it's “ugly”, but I prefer to know where the system could break: it forces me to handle that, so I push null checks at the edges of my system. Without it the code might look more “neat” in some places, but you could have nulls basically everywhere, giving up the advantages of null safety altogher. 
+
+Some people say that Monads (and similar constructs like Java's Optional) are better. I think that the design behind this also aimed at making working with nulls “ugly”. For instance, Kotlin lead engineer explained in the _"Kotlin in Action"_ book that they chose `!!` intentionally to discourage devs from using it too much.
+
+
+# Conclusion 
+
+
+
+
