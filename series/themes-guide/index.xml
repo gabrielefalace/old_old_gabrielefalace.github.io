@@ -13,7 +13,6 @@
       
       <guid>https://gabrielefalace.github.io/posts/sec_eng_wrap_up/</guid>
       <description>In this post I summarize the challenges I faced in implementing application security both from a technical and an organizational point of view. I also wrap up a few helpful ideas.
-TLDR jump to Conclusion
 Challenge 1: Software Development culture Nowadays devs are evaluated and rewarded mainly for their proficiency with modern languages/frameworks and “coding” abilities, while security skills are typically not mentioned.
 A too large percentage of devs are either not skilled enough on security topics or they lack the will to pull in security considerations, compared to what they’d do for other requirements, such as performance, scalability, etc.</description>
     </item>
