@@ -12,7 +12,7 @@
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://gabrielefalace.github.io/posts/secure_code_review/</guid>
-      <description>In this post I take note of a few key practices for code review, blending them with the classical process to obtain a comprehensive guideline.
+      <description>In this post I collect a few key practices for code review, blending them with the classical process to obtain a comprehensive guideline.
 To Be Continued &amp;hellip;
 Regular code review &amp;hellip;
 Security concerns &amp;hellip;
@@ -21,7 +21,7 @@ Conclusion &amp;hellip;</description>
     </item>
     
     <item>
-      <title>Secure Code Review</title>
+      <title>Threat Modeling for Microservices</title>
       <link>https://gabrielefalace.github.io/posts/threat_modeling_microservices/</link>
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
       

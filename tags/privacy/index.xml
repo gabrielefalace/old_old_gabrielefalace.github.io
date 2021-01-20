@@ -1,19 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>privacy on Fal&#39;s space</title>
+    <title>Privacy on Fal&#39;s space</title>
     <link>https://gabrielefalace.github.io/tags/privacy/</link>
-    <description>Recent content in privacy on Fal&#39;s space</description>
+    <description>Recent content in Privacy on Fal&#39;s space</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielefalace.github.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielefalace.github.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nesty Loops</title>
-      <link>https://gabrielefalace.github.io/posts/nesty-loops/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Secure Code Review</title>
+      <link>https://gabrielefalace.github.io/posts/secure_code_review/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gabrielefalace.github.io/posts/nesty-loops/</guid>
-      <description>In this example we will be using KaTeX
- Create a partial under /layouts/partials/math.html Within this partial reference the Auto-render Extension or host these scripts locally. Include the partial in your templates like so:  {{ if or .Params.math .Site.Params.math }} {{ partial &amp;#34;math.html&amp;#34; . }} {{ end }}  To enable KaTex globally set the parameter math to true in a project&amp;rsquo;s configuration To enable KaTex on a per page basis include the parameter math: true in content files  Note: Use the online reference of Supported TeX Functions</description>
+      <guid>https://gabrielefalace.github.io/posts/secure_code_review/</guid>
+      <description>In this post I collect a few key practices for code review, blending them with the classical process to obtain a comprehensive guideline.
+To Be Continued &amp;hellip;
+Regular code review &amp;hellip;
+Security concerns &amp;hellip;
+Privacy concerns &amp;hellip;
+Conclusion &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Threat Modeling for Microservices</title>
+      <link>https://gabrielefalace.github.io/posts/threat_modeling_microservices/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielefalace.github.io/posts/threat_modeling_microservices/</guid>
+      <description>In this post I take note of a few key practices for code review, blending them with the classical process to obtain a comprehensive guideline.
+To Be Continued &amp;hellip;
+Threat modeling &amp;hellip;
+Rapid methodologies &amp;hellip;
+Improving for microservices &amp;hellip;
+Including privacy &amp;hellip;
+Conclusion &amp;hellip;</description>
     </item>
     
   </channel>

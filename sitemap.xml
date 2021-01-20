@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://gabrielefalace.github.io/tags/architecture/</loc>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gabrielefalace.github.io/series/architecture/</loc>
     <lastmod>2021-01-13T00:00:00+00:00</lastmod>
   </url>
@@ -53,17 +58,17 @@
   </url>
   
   <url>
-    <loc>https://gabrielefalace.github.io/tags/privacy-engineering/</loc>
+    <loc>https://gabrielefalace.github.io/tags/privacy/</loc>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrielefalace.github.io/tags/security/</loc>
     <lastmod>2021-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gabrielefalace.github.io/categories/security/</loc>
-    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gabrielefalace.github.io/tags/security-engineering/</loc>
     <lastmod>2021-01-13T00:00:00+00:00</lastmod>
   </url>
   

@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielefalace.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Architecture</title>
+      <link>https://gabrielefalace.github.io/tags/architecture/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielefalace.github.io/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Engineering Management</title>
       <link>https://gabrielefalace.github.io/tags/engineering-management/</link>
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
@@ -16,20 +25,20 @@
     </item>
     
     <item>
-      <title>Privacy Engineering</title>
-      <link>https://gabrielefalace.github.io/tags/privacy-engineering/</link>
+      <title>Privacy</title>
+      <link>https://gabrielefalace.github.io/tags/privacy/</link>
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gabrielefalace.github.io/tags/privacy-engineering/</guid>
+      <guid>https://gabrielefalace.github.io/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Security Engineering</title>
-      <link>https://gabrielefalace.github.io/tags/security-engineering/</link>
+      <title>Security</title>
+      <link>https://gabrielefalace.github.io/tags/security/</link>
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gabrielefalace.github.io/tags/security-engineering/</guid>
+      <guid>https://gabrielefalace.github.io/tags/security/</guid>
       <description></description>
     </item>
     
