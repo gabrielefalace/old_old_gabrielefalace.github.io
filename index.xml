@@ -18,6 +18,35 @@ A too large percentage of devs are either not skilled enough on security topics 
     </item>
     
     <item>
+      <title>Secure Code Review</title>
+      <link>https://gabrielefalace.github.io/posts/secure_code_review/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielefalace.github.io/posts/secure_code_review/</guid>
+      <description>In this post I take note of a few key practices for code review, blending them with the classical process to obtain a comprehensive guideline.
+To Be Continued &amp;hellip;
+Regular code review &amp;hellip;
+Security concerns &amp;hellip;
+Privacy concerns &amp;hellip;
+Conclusion &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Secure Code Review</title>
+      <link>https://gabrielefalace.github.io/posts/threat_modeling_microservices/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielefalace.github.io/posts/threat_modeling_microservices/</guid>
+      <description>In this post I take note of a few key practices for code review, blending them with the classical process to obtain a comprehensive guideline.
+To Be Continued &amp;hellip;
+Threat modeling &amp;hellip;
+Rapid methodologies &amp;hellip;
+Improving for microservices &amp;hellip;
+Including privacy &amp;hellip;
+Conclusion &amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Archive</title>
       <link>https://gabrielefalace.github.io/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software Engineering on Fal&#39;s space</title>
-    <link>https://gabrielefalace.github.io/tags/software-engineering/</link>
-    <description>Recent content in Software Engineering on Fal&#39;s space</description>
+    <title>Privacy Engineering on Fal&#39;s space</title>
+    <link>https://gabrielefalace.github.io/tags/privacy-engineering/</link>
+    <description>Recent content in Privacy Engineering on Fal&#39;s space</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielefalace.github.io/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Setting up Security Engineering for success</title>
-      <link>https://gabrielefalace.github.io/posts/sec_eng_wrap_up/</link>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielefalace.github.io/posts/sec_eng_wrap_up/</guid>
-      <description>In this post I summarize the challenges I faced in implementing application security both from a technical and an organizational point of view. I also wrap up a few helpful ideas.
-Challenge 1: Software Development culture Nowadays devs are evaluated and rewarded mainly for their proficiency with modern languages/frameworks and “coding” abilities, while security skills are typically not mentioned.
-A too large percentage of devs are either not skilled enough on security topics or they lack the will to pull in security considerations, compared to what they’d do for other requirements, such as performance, scalability, etc.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielefalace.github.io/tags/privacy-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Secure Code Review</title>
       <link>https://gabrielefalace.github.io/posts/secure_code_review/</link>

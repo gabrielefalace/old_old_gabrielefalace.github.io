@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architecture on Fal&#39;s space</title>
+    <link>https://gabrielefalace.github.io/series/architecture/</link>
+    <description>Recent content in Architecture on Fal&#39;s space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielefalace.github.io/series/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secure Code Review</title>
+      <link>https://gabrielefalace.github.io/posts/threat_modeling_microservices/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielefalace.github.io/posts/threat_modeling_microservices/</guid>
+      <description>In this post I take note of a few key practices for code review, blending them with the classical process to obtain a comprehensive guideline.
+To Be Continued &amp;hellip;
+Threat modeling &amp;hellip;
+Rapid methodologies &amp;hellip;
+Improving for microservices &amp;hellip;
+Including privacy &amp;hellip;
+Conclusion &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

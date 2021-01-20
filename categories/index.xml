@@ -7,11 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielefalace.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Architecture</title>
+      <link>https://gabrielefalace.github.io/categories/architecture/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielefalace.github.io/categories/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Engineering</title>
       <link>https://gabrielefalace.github.io/categories/engineering/</link>
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://gabrielefalace.github.io/categories/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://gabrielefalace.github.io/categories/security/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielefalace.github.io/categories/security/</guid>
       <description></description>
     </item>
     
